@@ -7,15 +7,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "FactoryMet
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AbstractFactory", "AbstractFactory", "{F5181B47-9084-4FF9-8E41-36A690D1F8FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "..\..\..\Downloads\Ex_Files_CSharp_Design_Patterns\Ex_Files_CSharp_Design_Patterns\Ch03\03_02\AbstractFactory\AbstractFactory.csproj", "{78582482-471C-4662-864F-9CCE9363D0AD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "AbstractFactory\AbstractFactory\AbstractFactory.csproj", "{78582482-471C-4662-864F-9CCE9363D0AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CitiCreditUnion", "..\..\..\Downloads\Ex_Files_CSharp_Design_Patterns\Ex_Files_CSharp_Design_Patterns\Ch03\03_02\CitiCreditUnion\CitiCreditUnion.csproj", "{33908395-2089-4360-BAE8-76AAB5BCA55E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CitiCreditUnion", "AbstractFactory\CitiCreditUnion\CitiCreditUnion.csproj", "{33908395-2089-4360-BAE8-76AAB5BCA55E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "..\..\..\Downloads\Ex_Files_CSharp_Design_Patterns\Ex_Files_CSharp_Design_Patterns\Ch03\03_02\Interfaces\Interfaces.csproj", "{FD35AD52-C43A-452F-8DCB-55C706E1AF13}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "AbstractFactory\Interfaces\Interfaces.csproj", "{FD35AD52-C43A-452F-8DCB-55C706E1AF13}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NationalCreditUnion", "..\..\..\Downloads\Ex_Files_CSharp_Design_Patterns\Ex_Files_CSharp_Design_Patterns\Ch03\03_02\NationalCreditUnion\NationalCreditUnion.csproj", "{9AD24747-51A9-446B-96FB-B5A008B93792}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NationalCreditUnion", "AbstractFactory\NationalCreditUnion\NationalCreditUnion.csproj", "{9AD24747-51A9-446B-96FB-B5A008B93792}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Providers", "..\..\..\Downloads\Ex_Files_CSharp_Design_Patterns\Ex_Files_CSharp_Design_Patterns\Ch03\03_02\Providers\Providers.csproj", "{C659BD05-1E04-42BC-8FBD-E318AEFE2DCD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Providers", "AbstractFactory\Providers\Providers.csproj", "{C659BD05-1E04-42BC-8FBD-E318AEFE2DCD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
